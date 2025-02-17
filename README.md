@@ -1,0 +1,19 @@
+# Photo Album
+
+- Bu proje, Next.js kullanılarak geliştirilen bir "fotoğraf albümü" uygulamasıdır.
+
+***
+
+- Projede TypeScript, ESLint, Tailwind CSS, "src" yapısı, App Router, Turbopack ve "import alias" yapılarının hiçbiri kullanılmamıştır.
+
+- Fotoğraflar, "public/images" klasöründe bulunmalıdır.
+
+- Alt klasörlerdeki resim dosyaları da görülebilmektedir.
+
+- Responsive tasarım uygulanmıştır.
+
+***
+
+- Dependencies için `npm install` çalıştırın.
+
+- Uygulamayı `npm run dev` ile çalıştırın.
