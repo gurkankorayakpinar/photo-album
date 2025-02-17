@@ -10,7 +10,7 @@
 
 - Alt klasörlerdeki resim dosyaları da görülebilmektedir.
 
-- Responsive tasarım uygulanmıştır.
+- Projede "responsive tasarım" uygulanmıştır.
 
 ***
 
