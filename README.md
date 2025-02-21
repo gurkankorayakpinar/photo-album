@@ -14,6 +14,6 @@
 
 ***
 
-- Dependencies için `npm install` çalıştırın.
+- Dependencies için `npm install` kullanın.
 
 - Uygulamayı `npm run dev` ile çalıştırın.
